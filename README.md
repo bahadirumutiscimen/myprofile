@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yldzufukk" alt="yldzufukk" /></a> </p>
 
-- 🔭 I’m currently working on **Kocaeli Bilisim Valley**
+- <link rel="stylesheet" href="<ion-icon name="code-working-outline"></ion-icon>"> 
+- I’m currently working on **Kocaeli Bilisim Valley**
 
 - 🌱 I’m currently learning **React Native**
 
